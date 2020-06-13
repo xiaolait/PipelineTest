@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PipelineTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
